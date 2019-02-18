@@ -1,2 +1,1 @@
 this is second line in mani.txt file
-third line mani
